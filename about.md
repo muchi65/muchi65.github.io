@@ -4,15 +4,31 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# プロフィール
+普段は研究者をしている30代のmuchiが、知らないことを調べて書き留めておくサイトです。
+ブログ初心者なので、見やすさ等はご容赦ください。
+また、誤りがないように気を付けていますが、もし誤りを見つけましたら[X][twitter]でご連絡いただけると嬉しいです。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+ちなみに、本サイトは[jekyll][jekyll-organization]を使って作成しています。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- C/C++, C#, Python
+- 画像処理, 深層学習, カメラ幾何
+- Web3, Javascriptを勉強中
 
+# 免責事項
+当ブログからのリンクなどで移動したサイトで提供される情報、サービス等について一切の責任を負いません。
+当ブログのコンテンツについて、できる限り正確な情報を提供するように努めておりますが、正確性や安全性を保証するものではありません。
+当サイトに掲載された内容によって生じた損害等の一切の責任を負いかねますのでご了承ください。
 
+# 著作権
+当ブログの著作権や肖像権に関して問題がございましたら、[X][twitter]でご連絡ください。
+
+# リンクについて
+当ブログはリンクフリーです。
+
+2023.11.24更新
+
+[twitter]:https://twitter.com/muchi24211853
 [jekyll-organization]: https://github.com/jekyll
+
+
