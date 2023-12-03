@@ -27,8 +27,11 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
+    jekyll-compose (0.12.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-seo-tag (2.8.0)
@@ -71,7 +74,9 @@ PLATFORMS
 DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll (~> 3.9.3)
+  jekyll-compose
   jekyll-feed (~> 0.6)
+  jekyll-paginate (~> 1.1)
   kramdown-parser-gfm
   minima (~> 2.0)
   tzinfo (>= 1, < 3)

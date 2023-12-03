@@ -41,3 +41,6 @@ gem "kramdown-parser-gfm"
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.8"
+
+gem 'jekyll-paginate', '~> 1.1'
+gem 'jekyll-compose', group: [:jekyll_plugins]
