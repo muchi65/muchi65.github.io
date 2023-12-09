@@ -25,8 +25,8 @@ author: ©2023 muchi
 markdown: kramdown
 theme: minima
 # remote_theme: link9596/jekyll-theme-Hydrogen
-paginate: 8
-paginate_path: page:num
+# paginate: 8
+# paginate_path: page:num
 
 sass:
   style: expanded
