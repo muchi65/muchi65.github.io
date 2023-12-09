@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # プロフィール
-普段は研究者をしている30代のmuchiが、知らないことを調べて書き留めておくサイトです。
+普段は研究者をしている30代のmuchi（ムチ）が、知らないことを調べて書き留めておくサイトです。
 ブログ初心者なので、見やすさ等はご容赦ください。
 また、誤りがないように気を付けていますが、もし誤りを見つけましたら[X][twitter]でご連絡いただけると嬉しいです。
 
@@ -26,9 +26,9 @@ permalink: /about/
 # リンクについて
 当ブログはリンクフリーです。
 
-2023.11.24更新
+2023.12.09更新
 
-[twitter]:https://twitter.com/muchi24211853
+[twitter]:https://twitter.com/muchi65_
 [jekyll-organization]: https://github.com/jekyll
 
 
