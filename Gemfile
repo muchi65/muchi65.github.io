@@ -20,6 +20,11 @@ gem "minima", "~> 2.0"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
+  gem 'jekyll-paginate', '~> 1.1'
+  gem 'jekyll-compose', group: [:jekyll_plugins]
+  gem 'jekyll-seo-tag'
+  gem 'jekyll-sitemap'
+  gem 'jekyll-remote-theme'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -41,6 +46,3 @@ gem "kramdown-parser-gfm"
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.8"
-
-gem 'jekyll-paginate', '~> 1.1'
-gem 'jekyll-compose', group: [:jekyll_plugins]

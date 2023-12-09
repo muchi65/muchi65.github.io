@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to muchi's blog"
-date:   2023-11-24 16:11:30 +0900
+date:   2023-11-24
 ---
 
 無知なmuchiのブログへようこそ！  

@@ -24,8 +24,8 @@ author: ©2023 muchi
 # Build settings
 markdown: kramdown
 theme: minima
-
-paginate: 10
+# remote_theme: link9596/jekyll-theme-Hydrogen
+paginate: 8
 paginate_path: page:num
 
 sass:
@@ -34,15 +34,10 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-remote-theme
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+jekyll_compose:
+  auto_open: true
+  EDITOR: code
