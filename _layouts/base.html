@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: "jp" }}">
 
-  {%- include head.html -%}
-  {% if jekyll.environment == 'production' %}
-  {% include analytics.html %}
-  {% endif %}
   <body>
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+
+    {%- include head.html -%}
 
     {%- include header.html -%}
 
