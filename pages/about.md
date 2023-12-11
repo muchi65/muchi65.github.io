@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+tagline: 本サイトについて
 permalink: /about/
 ---
 
@@ -8,7 +9,8 @@ permalink: /about/
 普段は研究者をしている30代のmuchi（ムチ）が、知らないことを調べて書き留めておくサイトです。
 また、誤りがないように気を付けていますが、もし誤りを見つけましたらX（旧Twitter）にて[@muchi65_][twitter]までご連絡いただけると嬉しいです。
 
-ちなみに、本サイトは[jekyll][jekyll-organization]を使って作成しています。
+本サイトは[jekyll][jekyll-organization]を使って作成しています。
+テーマは[Hydrogen](https://github.com/link9596/jekyll-theme-Hydrogen)を使用しています。
 
 - C/C++, C#, Python
 - 画像処理, 深層学習, カメラ幾何
