@@ -17,16 +17,17 @@ layout: default
 <p></p>
     <!-- 前後のページへのリンクを表示したい -->
     <div class="pager">
+      {% if page.previous %}
+      <p class="pager__item--prev">
+        <a href="{{ page.previous.url | relative_url }}">前の記事： {{ page.previous.title }}</a>
+      </p>
+      {% endif %}
+
       {% if page.next %}
       <p class="pager__item--next">
-        <a href="{{ page.next.url | relative_url }}">前の記事： {{ page.next.title }}</a>
+        <a href="{{ page.next.url | relative_url }}">次の記事： {{ page.next.title }}</a>
       </p>
     {% endif %}
-      {% if page.previous %}
-        <p class="pager__item--prev">
-          <a href="{{ page.previous.url | relative_url }}">次の記事： {{ page.previous.title }}</a>
-        </p>
-        {% endif %}
 
 
     </div><!--pager-->
