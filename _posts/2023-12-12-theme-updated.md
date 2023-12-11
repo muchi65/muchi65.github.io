@@ -1,6 +1,6 @@
 ---
 layout: post
-title: テーマ更新
+title: "テーマ更新"
 date: 2023-12-12
 ---
 
