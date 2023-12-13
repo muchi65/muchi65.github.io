@@ -1,6 +1,5 @@
 title: muchi65
-description: >- # this means to ignore newlines until "baseurl:"
-  無知な私の備忘録：プログラミングなど技術情報を発信しています。
+description: 無知な私の備忘録：プログラミングなど技術情報を発信しています。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://muchi65.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: muchi65_
@@ -10,6 +9,8 @@ author: muchi65
 
 # Build settings
 markdown: kramdown
+sass:
+  style: compressed 
 # paginate: 8
 # paginate_path: "/pages/:num"
 
