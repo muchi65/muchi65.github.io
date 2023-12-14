@@ -9,6 +9,6 @@ date:   2023-11-24
 研究者として働いていますが、研究に関係ないことも勉強したいと思い、ブログを始めました。  
 調べたことや、作ったものを公開していきます。
 
-[github](https://github.com/muchi65)や[X](https://twitter.com/muchi24211853)もやっています。
+[github](https://github.com/{{ site.github_username }})や[X](https://twitter.com/{{ site.twitter_username }})もやっています。
 
 これからよろしくお願いします！
