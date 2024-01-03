@@ -49,7 +49,7 @@ Cookieはご利用のブラウザや端末の設定により無効にするこ�
 {: align="right"}
 2023.12.10更新
 
-[twitter]:https://twitter.com/muchi65_
+[twitter]: https://twitter.com/{{ site.twitter_username }}
 [jekyll-organization]: https://github.com/jekyll
 
 

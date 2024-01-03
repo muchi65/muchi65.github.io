@@ -4,7 +4,7 @@ title: "「ガス代横取りされていませんか？」ガスレスフリー
 categories: NFT Tips
 tags: NFT フリーミント Web3.0 Tips
 date: 2023-12-03
-image: /assets/images/gasless/gasless01.png
+image: /assets/images/gasless/gasless01.jpg
 ---
 ![ガスレスフリーミントのやり方（ノーコード）【前編】]({{ page.image }} "ガスレスフリーミントのやり方（ノーコード）【前編】")
 

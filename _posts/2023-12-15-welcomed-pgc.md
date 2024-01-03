@@ -4,8 +4,14 @@ title: PGCをお迎えしたら人生が変わった
 date: 2023-12-15
 categories: NFT PGC
 tags: NFT PGC
-image: /assets/images/pgc/welcomed_pgc.png
+image: /assets/images/pgc/welcomed_pgc.jpg
 ---
+
+![PGCをお迎えしたら人生が変わった]({{ page.image }} "PGCをお迎えしたら人生が変わった")
+
+**目次**
+* markdown unordered list
+{:toc}
 
 # はじめに
 まずはこの作品を1ループでいいので、眺めてください。

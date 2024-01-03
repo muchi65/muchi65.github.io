@@ -13,7 +13,7 @@ top: 4px;background-color: white;padding:2px 8px 1px 8px;\
 margin-top: 5px;border-radius: 4px;cursor: pointer;\
 z-index: 1;\
 box-shadow: 0 2px 4px rgba(0,0,0,0.05), 0 2px 4px rgba(0,0,0,0.05);-webkit-transition: all .4s, -webkit-transform .4s ease;transition: all .4s, transform .4s ease;";
-copy.innerHTML = "复制";
+copy.innerHTML = "Copy";
 currentCode.appendChild(copy);
 //让所有 "复制"按钮 全部隐藏
 copy.style.opacity = "0";
@@ -41,11 +41,11 @@ for (var i = 0; i < codeblocks.length; i++) {
         codeblocks[i].childNodes[1].style.color = "transparent";
         setTimeout(function () { codeblocks[i].childNodes[1].style.color = ""; }, 300);
         codeblocks[i].childNodes[1].style.width = "72px";
-        setTimeout(function () { codeblocks[i].childNodes[1].innerHTML = "复制成功"; }, 300);
+        setTimeout(function () { codeblocks[i].childNodes[1].innerHTML = "Copied!"; }, 300);
         setTimeout(function () {
             codeblocks[i].childNodes[1].style.color = "transparent";
             setTimeout(function () { codeblocks[i].childNodes[1].style.color = ""; }, 300);
-            codeblocks[i].childNodes[1].innerHTML = "复制";
+            codeblocks[i].childNodes[1].innerHTML = "Copy";
             codeblocks[i].childNodes[1].style.width = "46px";
         }, 1000);
         //清除选择区
