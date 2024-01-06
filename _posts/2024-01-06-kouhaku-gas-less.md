@@ -15,7 +15,7 @@ NFT紅白2023を記念したフリーミントが開催されています。[公
 欲しいけど、MATICがなくて諦めた方もいらっしゃるのではないでしょうか。
 
 そこで、一人でも多くの方がミントできるといいなと思い、ガスレスでフリーミントできるようにしてみました。  
-（正直言うと、ホームページの宣伝目的が90%、この前のガスレスフリミンで余ったデポジットどうしよう…が5%です。）
+（正直言うと、ホームページの宣伝目的が90%、この前の[FDA](https://opensea.io/collection/fashion-designer-a)のガスレスフリミンで余ったデポジットどうしよう…が5%です。）
 
 主旨をご理解いただき、**MATICを持っていない方のみ**、こちらからミントをお願いします。
 もし、MATIC持っている方がミントしたら…。どうなっても責任はとれません！
@@ -23,8 +23,6 @@ NFT紅白2023を記念したフリーミントが開催されています。[公
 また、公式サイトでは、NFT紅白の運営を応援するためのNFTもミントできます。  
 ぜひ[公式サイト](https://jojima-george.com/kouhaku2023/mint)もご覧ください。
 
-
-あと、無事ミントできたら、[私たちのコレクション](https://opensea.io/collection/fashion-designer-a)を見ていってください。
 
 ちなみに、私はMATICを[BITPOINT](https://www.bitpoint.co.jp/lp/referral/?invitationCd=GLLKONDQJC&afid=PaAKUxGd&argument=E4y65Xyx&dmai=a60e69a5d44eea)で購入しています。MATICが日本円で購入可能なのでおすすめです。
 BITPOINTを始める方は、招待コード【GLLKONDQJC】を使用すると、最大で1500円分の特典がもらえます！
