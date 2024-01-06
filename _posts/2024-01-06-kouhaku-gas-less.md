@@ -20,12 +20,20 @@ NFT紅白2023を記念したフリーミントが開催されています。[公
 主旨をご理解いただき、**MATICを持っていない方のみ**、こちらからミントをお願いします。
 もし、MATIC持っている方がミントしたら…。どうなっても責任はとれません！
 
+ちなみに、私はMATICを[BITPOINT](https://www.bitpoint.co.jp/lp/referral/?invitationCd=GLLKONDQJC&afid=PaAKUxGd&argument=E4y65Xyx&dmai=a60e69a5d44eea)で購入しています。MATICが日本円で購入可能なのでおすすめです。
+BITPOINTを始める方は、招待コード【GLLKONDQJC】を使用すると、最大で1500円分の特典がもらえます！
+
+
 また、公式サイトでは、NFT紅白の運営を応援するためのNFTもミントできます。  
 ぜひ[公式サイト](https://jojima-george.com/kouhaku2023/mint)もご覧ください。
 
 
-ちなみに、私はMATICを[BITPOINT](https://www.bitpoint.co.jp/lp/referral/?invitationCd=GLLKONDQJC&afid=PaAKUxGd&argument=E4y65Xyx&dmai=a60e69a5d44eea)で購入しています。MATICが日本円で購入可能なのでおすすめです。
-BITPOINTを始める方は、招待コード【GLLKONDQJC】を使用すると、最大で1500円分の特典がもらえます！
+このサイトからミントされる方も、[アンケート](https://docs.google.com/forms/d/e/1FAIpQLSfcJwjjDr0B7YwozUl1mxe0kcWs63KQozqRoqfqsxTAvieSFQ/viewform)がありますので、こちらもご回答をご協力をお願いします。
+
+[公式mintページ](https://jojima-george.com/kouhaku2023/mint#freemint)はこちらです。
+
+イラスト制作：あきゅーさん([@akyuuuu49](https://twitter.com/akyuuuu49))  
+ぜひフォローをお願いします！
 
 
 # ガスレスフリーミントはこちらから
