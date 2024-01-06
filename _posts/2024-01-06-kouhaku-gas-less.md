@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "NFT紅白フリーミントをガスレスフリミン変えてみた"
-date:   2024-01-07
+date:   2024-01-06
 categories: NFT
 tags: NFT フリーミント Web3.0
 image: /assets/images/gasless/nft_kouhaku2024.jpg
