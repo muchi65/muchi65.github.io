@@ -6,7 +6,7 @@ permalink: /about/
 ---
 
 # プロフィール
-普段は研究者をしている30代のmuchi（ムチ）が、知らないことを調べて書き留めておくサイトです。
+普段は研究者をしているmuchi（ムチ）が、知らないことを調べて書き留めておくサイトです。
 また、誤りがないように気を付けていますが、もし誤りを見つけましたらX（旧Twitter）にて[@muchi65_][twitter]までご連絡いただけると嬉しいです。
 
 本サイトは[jekyll][jekyll-organization]を使って作成しています。
@@ -41,13 +41,13 @@ permalink: /about/
 Cookieはご利用のブラウザや端末の設定により無効にすることが可能です。
 <!-- Cookieを無効にする方法やGoogleアドセンスに関する詳細は[広告 – ポリシーと規約 – Google](https://policies.google.com/technologies/ads?gl=jp)をご確認ください。 -->
 
-<!-- また、muchiは、Amazon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイトプログラムである、Amazonアソシエイト・プログラムの参加者です。 -->
+また、muchiは、Amazon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイトプログラムである、Amazonアソシエイト・プログラムの参加者です。
 
 ## アクセス解析ツールについて
 当ブログでは、Googleによるアクセス解析ツール「Googleアナリティクス」を利用しています。このGoogleアナリティクスはトラフィックデータの収集のためにクッキー（Cookie）を使用しております。トラフィックデータは匿名で収集されており、個人を特定するものではありません。
 
 {: align="right"}
-2023.12.10更新
+2024.7.31更新
 
 [twitter]: https://twitter.com/{{ site.twitter_username }}
 [jekyll-organization]: https://github.com/jekyll

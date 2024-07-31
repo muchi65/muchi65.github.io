@@ -38,7 +38,7 @@ body {
   margin: 0;
   font-family: "mdFont", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 2;
   color: $body-text-color;
 }
 
@@ -265,7 +265,7 @@ a {
     padding: 0.8rem;
     overflow: auto;
     font-size: 0.9rem;
-    line-height: 1.45;
+    line-height: 1.8;
     border-radius: 0.3rem;
     -webkit-overflow-scrolling: touch;
   }
