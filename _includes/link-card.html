@@ -1,0 +1,15 @@
+<!-- _includes/link-card.html -->
+<div class="link-card">
+  {% if include.image %}
+  <div class="link-card-image">
+    <img src="{{ include.image }}" alt="{{ include.title }}">
+  </div>
+  {% endif %}
+  <a href="{{ include.url }}" target="_blank" rel="noopener noreferrer">
+    <div class="link-card-content">
+      <h3 class="link-card-title">{{ include.title }}</h3>
+      <p class="link-card-description">{{ include.description }}</p>
+      <p class="link-card-domain">{{ include.url | remove_first: "https://" | remove_first: "http://" | split: "/" | first }}</p>
+    </div>
+  </a>
+</div>

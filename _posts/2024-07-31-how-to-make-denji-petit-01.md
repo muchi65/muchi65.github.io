@@ -239,5 +239,9 @@ msmaflink({"n":"「ついやってしまう」体験のつくりかた 人を動
 
 もちろん説明書はありません。
 
-[![でんぷち！](/assets/images/den_petit/den_petit.jpg)](http://muchi65.starfree.jp/denji_petit/)
-
+{% include link-card.html 
+  url="http://muchi65.starfree.jp/denji_petit/"
+  title="でんぷち！【無料ゲーム】"
+  description="無料で遊べるフリーゲームです。"
+  image="/assets/images/den_petit/den_petit.jpg"
+%}
