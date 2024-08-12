@@ -8,31 +8,37 @@
   overflow: hidden;
   margin-bottom: 20px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  display: flex; /* Flexboxを使用してレイアウトを調整 */
+  display: flex;
+  max-width: 100%; /* カードの最大幅を設定 */
 }
 
 .link-card a {
   display: flex;
   color: inherit;
   text-decoration: none;
-  width: 100%; /* aタグを親要素いっぱいに広げる */
+  width: 100%;
 }
 
 .link-card-content {
   padding: 15px;
   flex: 1;
-  min-width: 0; /* Flexboxのバグを防ぐ */
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .link-card-title {
   margin: 0 0 10px;
   font-size: 18px;
+  line-height: 1.3;
 }
 
 .link-card-description {
   margin: 0 0 10px;
   font-size: 14px;
   color: #666;
+  line-height: 1.4;
 }
 
 .link-card-domain {
@@ -43,29 +49,53 @@
 
 .link-card-image {
   width: 320px;
-  min-width: 120px; /* 最小幅を設定 */
-  height: auto; /* 高さを自動調整 */
+  min-width: 320px;
+  height: 180px; /* 16:9のアスペクト比を維持 */
   background-color: #f0f0f0;
-  display: flex; /* Flexboxを使用して画像を中央揃え */
+  display: flex;
   align-items: center;
   justify-content: center;
-  overflow: hidden; /* はみ出した部分を隠す */
+  overflow: hidden;
 }
 
 .link-card-image img {
   width: 100%;
   height: 100%;
-  object-fit: cover; /* アスペクト比を維持しつつ、親要素にフィット */
+  object-fit: cover;
 }
 
-/* レスポンシブデザイン用の追加スタイル */
-@media (max-width: 320px) {
+/* 更新されたレスポンシブデザイン用のスタイル */
+@media (max-width: 768px) {
   .link-card {
-    flex-direction: column; /* モバイルでは縦並びに */
+    flex-direction: column;
+  }
+
+  .link-card a {
+    flex-direction: column;
   }
 
   .link-card-image {
     width: 100%;
-    height: 200px; /* モバイルでの画像の高さを固定 */
+    min-width: 100%;
+    height: 180px; /* 高さを固定 */
+  }
+
+  .link-card-content {
+    padding: 12px;
+  }
+
+  .link-card-title {
+    font-size: 16px;
+  }
+
+  .link-card-description {
+    font-size: 13px;
+  }
+}
+
+/* 小さな画面用の追加調整 */
+@media (max-width: 480px) {
+  .link-card-image {
+    height: 160px; /* さらに小さな画面では高さを少し減らす */
   }
 }
