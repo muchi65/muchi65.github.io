@@ -66,7 +66,7 @@ image: /assets/images/den_petit/eye_catch02.png
 
 これがこのゲームでプレイヤーに示される唯一のルールです。
 
-![denji_petit_00.jpg](/assets/images/den_petit/denji_petit_R01.jpg)
+![denji_petit_01.jpg](/assets/images/den_petit/denji_petit_R01.jpg)
 
 - 手を振るパンダのリーリー（視線誘導）
 - 手元にターゲットマーク
@@ -98,7 +98,7 @@ Xでの投稿を含めて、右からくる敵を殴るという説明は一切�
 
 無事に敵を殴り飛ばしたプレイヤーの次なる敵は、移動速度が速いお尻です。
 
-![denji_petit_01.jpg](/assets/images/den_petit/denji_petit_R01.jpg)
+![denji_petit_02.jpg](/assets/images/den_petit/denji_petit_R02.jpg)
 
 もしちょっとでもあなたが笑ってしまったらしめたものですが、少なくとも
 
@@ -108,7 +108,7 @@ Xでの投稿を含めて、右からくる敵を殴るという説明は一切�
 
 このままデンジとお尻を殴り飛ばしているとラウンド10では桃が登場します。
 
-![denji_petit_02.jpg](/assets/images/den_petit/denji_petit_R10.jpg)
+![denji_petit_10.jpg](/assets/images/den_petit/denji_petit_R10.jpg)
 
 実はこの桃はスルーしてシャオランの家に届けることでスコアが上がるアイテムになっています。
 
@@ -182,9 +182,9 @@ Xでの投稿を含めて、右からくる敵を殴るという説明は一切�
 実はこのコンティニューのアイデアは初版公開時にみんみんさん（[@minmin_4410
 ](https://x.com/minmin_4410)）から頂きました。
 
-ここでのこだわりポイントは、 **コンティニューからの再開を短くする** ことです。
+ここでのこだわりポイントは、なるべくゲームの世界から離れている時間を短くするために **コンティニューからの再開を短くする** ことです。
 
-なるべくゲームの世界から離れている時間を短くするために、内部処理のリロードなどを極力減らして、処理を高速化してあります。
+リロードなどを極力減らして、内部処理を高速化してあります。
 
 また、ラウンドとスコア表示を強調し、どの敵にやられたのかわかるよう敵を最前面に表示しています。
 
