@@ -4,6 +4,18 @@
   describe: 柴色さんの作品ページ。素敵な作品がたくさんあります！
   skin: 
 
+- name: NinjaDAO
+  image: https://static.wixstatic.com/media/38ba3b_7c302c328d074109ab8d9f7c2b4b1e6f%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/38ba3b_7c302c328d074109ab8d9f7c2b4b1e6f%7Emv2.png
+  url: https://www.ninja-dao.com/
+  describe: NinjaDAO内のCNGコミュニティで主に活動しています。
+  skin:
+
+- name: CryptoNinja Games
+  image: /icons/cng_icon128.png
+  url: https://mature-dandelion-95a.notion.site/7e8ab0203fd649ebb26f12dbca9c9144?v=3232c58ea1ba4a359034980e801c796c
+  describe: CNGのゲームがまとめられています。でんぷち！も載っています！
+  skin:
+
 - name: 素材屋CNP
   image: https://static.wixstatic.com/media/38ba3b_2c5715471a80438eb939725a910f72b5%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/38ba3b_2c5715471a80438eb939725a910f72b5%7Emv2.png
   url: https://www.sozaiya.cryptoninja-partners.xyz
