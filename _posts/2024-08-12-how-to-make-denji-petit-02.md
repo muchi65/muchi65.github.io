@@ -210,6 +210,7 @@ Xでの投稿を含めて、右からくる敵を殴るという説明は一切�
 
 物語のデザインも入れてありますが、それについてはまた次回説明します！
 
+
 {% include link-card.html 
   url="http://muchi65.starfree.jp/denji_petit/"
   title="でんぷち！【無料ゲーム】"
@@ -217,7 +218,16 @@ Xでの投稿を含めて、右からくる敵を殴るという説明は一切�
   image="/assets/images/den_petit/den_petit.jpg"
 %}
 
+
 {% capture target_url %}{% post_url 2024-07-31-how-to-make-denji-petit-01 %}{% endcapture %}
+{% for post in site.posts %}{% assign candidate_url = post.url | relative_url %}{% if candidate_url == target_url %}
+{% include link-card.html 
+  url=target_url
+  title=post.title
+  description=post.description 
+  image=post.image 
+%}
+
 
 <!-- START MoshimoAffiliateEasyLink -->
 <script type="text/javascript">
@@ -232,11 +242,4 @@ msmaflink({"n":"「ついやってしまう」体験のつくりかた 人を動
 <div id="msmaflink-tiVk4"></div>
 <!-- MoshimoAffiliateEasyLink END -->
 
-{% for post in site.posts %}{% assign candidate_url = post.url | relative_url %}{% if candidate_url == target_url %}
-{% include link-card.html 
-  url=target_url
-  title=post.title
-  description=post.description 
-  image=post.image 
-%}
 {% break %}{% endif %}{% endfor %}
