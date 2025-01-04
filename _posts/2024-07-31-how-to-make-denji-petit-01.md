@@ -224,15 +224,80 @@ image: /assets/images/den_petit/eye_catch01.png
 
 <!-- START MoshimoAffiliateEasyLink -->
 <script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
-(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"「ついやってしまう」体験のつくりかた 人を動かす「直感・驚き・物語」のしくみ [ 玉樹 真一郎 ]","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"","p":["\/@0_mall\/book\/cabinet\/6167\/9784478106167.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/book\/15986916\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場","u_bc":"#bf0000","u_url":"https:\/\/item.rakuten.co.jp\/book\/15986916\/","a_id":4323525,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1},{"u_bc":"#0054ff","u_tx":"Yahoo!ショッピング","u_url":"\/\/ck.jp.ap.valuecommerce.com\/servlet\/referral?sid=3710551\u0026pid=890752427\u0026vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Febookjapan%2Fb00162217086.html","s_n":"custom_3","u_so":3,"a_id":0,"p_id":0,"pc_id":0,"pl_id":0,"id":3},{"u_bc":"#ff9900","u_tx":"Amazon","u_url":"https:\/\/amzn.to\/3ymEcJi","s_n":"custom_4","u_so":4,"a_id":0,"p_id":0,"pc_id":0,"pl_id":0,"id":4}],"eid":"tiVk4","s":"s"});
+(function(b, c, f, g, a, d, e) {
+  b.MoshimoAffiliateObject = a;
+  b[a] = b[a] || function() {
+    arguments.currentScript = c.currentScript || c.scripts[c.scripts.length - 1];
+    (b[a].q = b[a].q || []).push(arguments);
+  };
+  if (!c.getElementById(a)) {
+    d = c.createElement(f);
+    d.src = g;
+    d.id = a;
+    d.onload = function() {
+      // スクリプト読み込み後に msmaflink を直接実行
+      msmaflink({
+        "n": "「ついやってしまう」体験のつくりかた 人を動かす「直感・驚き・物語」のしくみ [ 玉樹 真一郎 ]",
+        "b": "",
+        "t": "",
+        "d": "https://thumbnail.image.rakuten.co.jp",
+        "c_p": "",
+        "p": ["/@0_mall/book/cabinet/6167/9784478106167.jpg"],
+        "u": {
+          "u": "https://item.rakuten.co.jp/book/15986916/",
+          "t": "rakuten",
+          "r_v": ""
+        },
+        "v": "2.1",
+        "b_l": [
+          {
+            "id": 1,
+            "u_tx": "楽天市場",
+            "u_bc": "#bf0000",
+            "u_url": "https://item.rakuten.co.jp/book/15986916/",
+            "a_id": 4323525,
+            "p_id": 54,
+            "pl_id": 27059,
+            "pc_id": 54,
+            "s_n": "rakuten",
+            "u_so": 1
+          },
+          {
+            "u_bc": "#0054ff",
+            "u_tx": "Yahoo!ショッピング",
+            "u_url": "//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3710551&pid=890752427&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Febookjapan%2Fb00162217086.html",
+            "s_n": "custom_3",
+            "u_so": 3,
+            "a_id": 0,
+            "p_id": 0,
+            "pc_id": 0,
+            "pl_id": 0,
+            "id": 3
+          },
+          {
+            "u_bc": "#ff9900",
+            "u_tx": "Amazon",
+            "u_url": "https://amzn.to/3W3TECF",
+            "s_n": "custom_4",
+            "u_so": 4,
+            "a_id": 0,
+            "p_id": 0,
+            "pc_id": 0,
+            "pl_id": 0,
+            "id": 4
+          }
+        ],
+        "eid": "tiVk4",
+        "s": "s"
+      });
+    };
+    e = c.getElementsByTagName("body")[0];
+    e.appendChild(d);
+  }
+})(window, document, "script", "//dn.msmstatic.com/site/cardlink/bundle.js?20220329", "msmaflink");
 </script>
 <div id="msmaflink-tiVk4"></div>
+
 <!-- MoshimoAffiliateEasyLink END -->
 
 あ、ぼくのゲーム「[でんぷち！](http://muchi65.starfree.jp/denji_petit/)」も無料でプレイできるのでぜひ！

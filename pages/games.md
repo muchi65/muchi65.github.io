@@ -5,7 +5,7 @@ tagline: 自作ゲーム
 ---
 
 # でんぷち！
-CryptoFantasyチーム（https://www.cryptofantasy.net/ ）のファンゲームで、CryptoNinjaの3次創作になります。  
+[CryptoFantasyチーム](https://www.cryptofantasy.net/)のファンゲームで、CryptoNinjaの3次創作になります。
 操作は簡単、タップで敵を殴るだけ！
 ランキング上位を目指せ！
 
