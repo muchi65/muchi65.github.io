@@ -27,7 +27,7 @@ image: /assets/images/den_petit/eye_catch01.png
 
 **どうにかしてゲームをおもしろくしたい！**
 
-と思い、[「ついやってしまう」体験のつくりかた](https://amzn.to/3YmZfGd)という本を参考にゲームを改良しました。
+と思い、[「ついやってしまう」体験のつくりかた](https://amzn.to/3W3TECF)という本を参考にゲームを改良しました。
 
 その結果、アカウント数ベースですが
 
@@ -214,7 +214,7 @@ image: /assets/images/den_petit/eye_catch01.png
 
 **明らかにおもしろくなりました。**
 
-ということで、[「ついやってしまう」体験のつくりかた](https://amzn.to/3YmZfGd)オススメです！
+ということで、[「ついやってしまう」体験のつくりかた](https://amzn.to/3W3TECF)オススメです！
 
 書籍自体も「つい読んでしまう」構成になっていて一気に読んでしまいました。
 
@@ -300,12 +300,12 @@ image: /assets/images/den_petit/eye_catch01.png
 
 <!-- MoshimoAffiliateEasyLink END -->
 
-あ、ぼくのゲーム「[でんぷち！](http://muchi65.starfree.jp/denji_petit/)」も無料でプレイできるのでぜひ！
+あ、ぼくのゲーム「[でんぷち！](https://game.muchi65.com/den_petit/)」も無料でプレイできるのでぜひ！
 
 もちろん説明書はありません。
 
 {% include link-card.html 
-  url="http://muchi65.starfree.jp/denji_petit/"
+  url="https://game.muchi65.com/den_petit/"
   title="でんぷち！【無料ゲーム】"
   description="無料で遊べるフリーゲームです。"
   image="/assets/images/den_petit/den_petit.jpg"

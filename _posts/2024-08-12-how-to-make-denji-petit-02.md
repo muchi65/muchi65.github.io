@@ -39,7 +39,7 @@ image: /assets/images/den_petit/eye_catch02.png
 ネタバレしかないので、もしよければ先にゲームをプレイしてから読んでみてください！
 
 {% include link-card.html 
-  url="http://muchi65.starfree.jp/denji_petit/"
+  url="https://game.muchi65.com/den_petit/"
   title="でんぷち！【無料ゲーム】"
   description="無料で遊べるフリーゲームです。"
   image="/assets/images/den_petit/den_petit.jpg"
@@ -212,7 +212,7 @@ Xでの投稿を含めて、右からくる敵を殴るという説明は一切�
 
 
 {% include link-card.html 
-  url="http://muchi65.starfree.jp/denji_petit/"
+  url="https://game.muchi65.com/den_petit/"
   title="でんぷち！【無料ゲーム】"
   description="無料で遊べるフリーゲームです。"
   image="/assets/images/den_petit/den_petit.jpg"

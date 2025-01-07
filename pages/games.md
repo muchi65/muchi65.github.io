@@ -10,7 +10,7 @@ tagline: 自作ゲーム
 ランキング上位を目指せ！
 
 {% include link-card.html 
-  url="http://muchi65.starfree.jp/denji_petit/"
+  url="https://game.muchi65.com/den_petit/"
   title="でんぷち！【無料ゲーム】"
   description="無料で遊べるフリーゲームです。"
   image="/assets/images/den_petit/den_petit.jpg"
